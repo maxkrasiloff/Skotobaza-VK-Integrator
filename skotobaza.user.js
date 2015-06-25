@@ -3,7 +3,7 @@
 // @namespace    http://your.homepage/
 // @version      0.1.0.1
 // @description  enter something useful
-// @author       You
+// @author       Anonimous
 // @match        https://vk.com/*
 // @grant        none
 // @require      http://code.jquery.com/jquery-1.11.3.min.js
